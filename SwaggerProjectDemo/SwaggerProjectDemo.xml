@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerProjectDemo</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerProjectDemo.Controllers.ProjectController.GetProject(System.String)">
+            <summary>
+            Get Project by Id
+            </summary>
+            <param name="projectId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerProjectDemo.Controllers.ProjectController.SetProject(System.String)">
+            <summary>
+            Set Project
+            </summary>
+            <param name="projectId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
