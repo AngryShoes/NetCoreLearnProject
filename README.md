@@ -1,0 +1,2 @@
+# NetCoreLearnProject
+learn .net core
